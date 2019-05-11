@@ -1,0 +1,112 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/*header*/
+.half-width {
+  width: 600px;
+  float: left;
+}
+.title {
+  color: #77a466;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+nav {
+  float: right;
+  padding-top: 10px;
+  font-weight: 700;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  text-transform: capitalize;
+  text-decoration: none;
+  font-size: 14px;
+  color: #77a466;
+  padding-left: 15px;
+}
+
+.header {
+  width: 1200px;
+  margin: 0 auto;
+
+}
+
+/*middle section*/
+
+
+.menu-section {
+  width: 1200px;
+  height: 200px;
+  margin: 0 auto 60px auto;
+  border: 1px solid #77a466;
+  border-right: none;
+  border-left: none;
+}
+
+
+.third-width {
+  width: 398px;
+  height: 200px;
+  float: left;
+    }
+
+#reviews{
+border-right: 1px solid #77a466;
+}
+#menu-border {
+border-right: 1px solid #77a466;
+}
+
+#about {
+  width: 1200px;
+  margin: 0 auto 60px auto;
+  }
+
+.h2-middle {
+  color: #77a466;
+  text-transform: UPPERCASE;
+  font-size: 18px;
+  font-weight: 700;
+}
+h3 {
+  font-size: 16px;
+  line-height: 25px;
+  text-align: center;
+}
+p {
+  font-size: 16px;
+  text-align: center;
+
+}
+.p1{
+text-align: center;
+padding: 10px;
+}
+.first-p{
+  text-align: left;
+}
+.green-menu{
+  color: #77a466;
+  line-height: 18px;
+}
+/*footer*/
+#content {
+  clear: both;
+  height: 80;
+  margin-left: 450px;
+  }
+  .footer{
+    font-size: 16px;
+    font-weight: 700;
+    clear: both;
+  }
+  .span {
+    font-family: 'Oleo Script Swash Caps', cursive;
+    color: #77a466;
+  }
